@@ -1,4 +1,3 @@
-*html linguist-detectable=false
+
 *.py linguist-detectable=true
-*.cpp linguist-detectable=false
-*ipynb linguist-detectable=false
+
